@@ -5,3 +5,6 @@
 .nav-link{
     color: #000;
 }
+.list{
+    box-shadow: 0 8px 8px -4px rgb(209, 202, 202);
+}
