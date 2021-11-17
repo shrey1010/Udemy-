@@ -13,6 +13,8 @@
 .mylearning{
     background-color: #000;
     color: #fff;
+    height: 150px;
+    padding: 70px 240px;
 }
 .footer{
     background-color: #000;
@@ -21,4 +23,10 @@
 .english{
     position: relative;
    right: 0;
+}
+.course{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 70px;
 }
