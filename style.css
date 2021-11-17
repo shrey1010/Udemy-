@@ -8,3 +8,12 @@
 .list{
     box-shadow: 0 8px 8px -4px rgb(209, 202, 202);
 }
+.footer{
+    background-color: #000;
+    color: #fff;
+}
+.my-learning{
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
