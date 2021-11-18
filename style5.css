@@ -1,0 +1,55 @@
+.searchBar{
+    border-radius: 40px;
+    width: 160%;
+}
+.nav-link{
+    color: #000;
+}
+.list{
+    box-shadow: 0 8px 8px -4px rgb(209, 202, 202);
+}   
+.a{
+   background-color: rgb(134, 119, 119);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.b{
+    text-align: center;
+    padding-top: 50px;
+}
+.c{
+    height: 40px;
+    background-color: rgb(156, 141, 141);
+    padding-top: 5px;
+    
+    text-align: center;
+}
+.d{
+    height: 40px;
+    padding-top: 5px;
+    
+    text-align: center;
+}
+.e{
+    
+    text-align: center;
+}
+.f{
+ padding: 20px;
+ padding-left: 380px;
+}
+.footer{
+    background-color: #000;
+    color: #fff;
+}
+.english{
+    position: relative;
+   right: 0;
+}
+.course{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+}
