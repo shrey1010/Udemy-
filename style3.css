@@ -1,0 +1,30 @@
+body{
+    overflow-x: hidden;
+}
+.nav-link{
+    color: #000;
+}
+.list{
+    box-shadow: 0 8px 8px -4px rgb(209, 202, 202);
+}
+.searchBar{
+    border-radius: 40px;
+    width: 160%;
+}
+.students{
+    background-color: blue;
+    color: white;
+
+    
+}
+.reasons{
+    text-align: center;
+}
+.a{
+    text-align: center;
+    padding: 20px 30px;
+    font-size: 20px;
+}
+.b {
+    text-align: right;
+}
