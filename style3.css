@@ -28,3 +28,32 @@ body{
 .b {
     text-align: right;
 }
+.c{
+    text-align: center;
+    padding: 20px 30px;
+    font-size: 20px;
+}
+.d{
+    background-color: rgb(240, 245, 245);
+}
+.e{
+   text-align: center;
+}
+.f{
+    text-align: center;
+    background-color: rgb(235, 241, 241);
+  
+}
+.footer{
+    background-color: #000;
+    color: #fff;
+}
+.my-learning{
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+.english{
+    position: relative;
+   right: 0;
+}
