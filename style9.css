@@ -8,8 +8,14 @@
 .list{
     box-shadow: 0 8px 8px -4px rgb(209, 202, 202);
 }  
-.a{
-    height: 550px;
+.scroll{
+    height: 400px;
+
+    overflow :scroll
+}
+.b{
+    align-items: center;
+    padding-left: 275px;
 }
 
 .footer{
@@ -28,13 +34,9 @@
 }
 .image{
     border-radius: 50%;
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 6 0px;
 }
-.a::-webkit-scrollbar{
-    width: .5rem;
-}
-.a::-webkit-scrollbar-button
-{
-    
-}
+.c{
+    margin-bottom: 270px;
+}   
