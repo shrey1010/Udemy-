@@ -1,0 +1,40 @@
+.searchBar{
+    border-radius: 40px;
+    width: 160%;
+}
+.nav-link{
+    color: #000;
+}
+.list{
+    box-shadow: 0 8px 8px -4px rgb(209, 202, 202);
+}  
+.a{
+    height: 550px;
+}
+
+.footer{
+    background-color: #000;
+    color: #fff;
+}
+.english{
+    position: relative;
+   right: 0;
+}
+.course{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+}
+.image{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.a::-webkit-scrollbar{
+    width: .5rem;
+}
+.a::-webkit-scrollbar-button
+{
+    
+}
